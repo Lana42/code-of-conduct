@@ -40,7 +40,7 @@ We want everyone to be both happy and comfortable in the surroundings we provide
 
 
 1. **Address it directly.** If you're comfortable bringing up the incident with the person who instigated it, DM them or set up a video chat to discuss how it affected you. Be sure to approach these conversations in a forgiving spirit: an angry or tense conversation will not do either of you any good. If you're unsure how to go about that, or if you're too frustrated to have a direct conversation, there are a number of alternate routes you can take including reaching out to leadership either via Slack or email.
-2. **Talk to one or more of the leadership team.** If you're uncomfortable handling the situation directly, or if you feel the situation requires more direct handling, please bring it to the attention of the leadership team either on Slack or via email at [inclusivetechbuffalo@gmail.com](mailto:inclusivetechbuffalo@gmail.com). You can also report a Code of Conduct violation anonymously using [this Google form](#FIXME).
+2. **Talk to one or more of the leadership team.** If you're uncomfortable handling the situation directly, or if you feel the situation requires more direct handling, please bring it to the attention of the leadership team either on Slack or via email at [inclusivetechbuffalo@gmail.com](mailto:inclusivetechbuffalo@gmail.com). You can also report a Code of Conduct violation anonymously using [this Google form](https://docs.google.com/forms/d/1-9KOsHVmJ-YwKcMBxHTVTZX2G-OuiZutTCnJP4xN_pQ).
 
 ### Taking care of each other
 
